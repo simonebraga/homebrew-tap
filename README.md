@@ -1,15 +1,15 @@
-# My tap with versioning
+# My tap for versioning
 
 ## How do I install these formulae?
 
-`brew install simonebraga/homebrew-core/<formula>`
+`brew install simonebraga/homebrew-tap/<formula>`
 
-Or `brew tap simonebraga/homebrew-core` and then `brew install <formula>`.
+Or `brew tap simonebraga/homebrew-tap` and then `brew install <formula>`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
-tap "simonebraga/homebrew-core"
+tap "simonebraga/homebrew-tap"
 brew "<formula>"
 ```
 
